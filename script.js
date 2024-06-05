@@ -1,1 +1,1 @@
-alert("This is the dom module");
+document.firstElementChild.lastElementChild.querySelector('ul').lastElementChild.innerHTML = "I changed it!";
